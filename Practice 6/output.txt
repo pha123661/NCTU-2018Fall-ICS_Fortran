@@ -1,0 +1,44 @@
+ no.  country  salary  tax_rate     tax
+  1     A1      2000     0.02        40
+  2     B6      2500     0.03        75
+  3     C2     -1000     ----  invalid salary
+  4     C2      4500     0.07       315
+  5     C3      8800     ----  invalid country
+  6     A1     -6300     ----  invalid salary
+  7     A2      2000     ----  invalid country
+  8     B6      4500     0.04       180
+  9     A1      4500     0.03       135
+ 10     C5      1250     0.05        62
+ 11     C4      2000     0.05       100
+ 12     A3     -7580     ----  invalid salary
+ 13     C4     12500     0.08      1000
+ 14     A1       925     0.01         9
+ 15     B6      9800     0.05       490
+ 16     C4      2580     0.06       154
+ 17     A2     14020     ----  invalid country
+ 18     B6      1250     0.02        25
+ 19     C2      4500     0.07       315
+ 20     C5      9500     0.08       760
+ 21     A3      3500     0.03       105
+ 22     C2     -2750     ----  invalid salary
+ 23     B6      1000     0.02        20
+ 24     C2      1000     0.05        50
+ 25     B6     -8000     ----  invalid salary
+ 26     A1       540     0.01         5
+ 27     A3      4500     0.03       135
+ 28     C4      4900     0.07       343
+ 29     C2      7500     0.08       600
+ 30     A3      8000     0.04       320
+ Total number = 30
+ Country A =  7
+ Country B =  5
+ Country C = 10
+ Invalid Country =  3
+ Invalid Salary  =  5
+         
+ Country salary catogory(I~IV) table:
+         
+         I  II  III  IV
+      A  2   1   3   1
+      B  2   1   1   1
+      C  3   1   3   3

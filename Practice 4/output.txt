@@ -1,0 +1,9 @@
+ f(x)=x^2+2x
+ Integration range=(   1.600000     ,   3.800000     )
+ Exact value of integration=   28.80533    
+ Trapezoidal Rule
+ The approximate value of           4 division is   28.91625    
+ The approximate value of           6 division is   28.85463    
+ Simpson¡¦s Rule
+ The approximate value of           4 division is   28.80533    
+ The approximate value of           6 division is   28.80533    
